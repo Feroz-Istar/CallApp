@@ -23,6 +23,8 @@ class CustomAdapter(val userList: ArrayList<Contact>) : RecyclerView.Adapter<Cus
         return ViewHolder(v)
     }
 
+
+
     //this method is binding the data on the list
     override fun onBindViewHolder(holder: CustomAdapter.ViewHolder, position: Int) {
         holder.bindItems(userList[position])
