@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "153187857768",
+    "firebase_url": "https://callapp-1520258544408.firebaseio.com",
+    "project_id": "callapp-1520258544408",
+    "storage_bucket": "callapp-1520258544408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153187857768:android:f96d22872660c01f",
+        "android_client_info": {
+          "package_name": "com.call.feroz.callapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153187857768-3183n6dtn84e197dearjj5rd20rofkgc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "153187857768-bugv4oirgp2a01voddcq7725tkftos0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrCi2e7OisZ8_ye96hEEfKtZW4S_YXFdc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153187857768-3183n6dtn84e197dearjj5rd20rofkgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
